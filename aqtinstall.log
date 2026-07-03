@@ -1,0 +1,240 @@
+2026-07-04 00:02:15,128 - aqt.helper - DEBUG - helper 35296 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/Updates.xml.sha256
+2026-07-04 00:02:18,251 - aqt.helper - DEBUG - helper 35296 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152_wasm/Updates.xml.sha256
+2026-07-04 00:02:28,395 - aqt.main - INFO - installer 23572 aqtinstall(aqt) v3.3.0 on Python 3.13.12 [CPython MSC v.1942 64 bit (AMD64)]
+2026-07-04 00:02:28,396 - aqt.helper - DEBUG - helper 23572 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/Updates.xml.sha256
+2026-07-04 00:02:30,538 - aqt.helper - DEBUG - helper 35396 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:30,538 - aqt.helper - DEBUG - helper 34928 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtactiveqt-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:30,540 - aqt.helper - DEBUG - helper 34916 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttranslations-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:30,542 - aqt.helper - DEBUG - helper 34944 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsvg-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:32,022 - aqt.helper - INFO - helper 35396 Downloading qtbase...
+2026-07-04 00:02:32,024 - aqt.helper - INFO - helper 34944 Downloading qtsvg...
+2026-07-04 00:02:32,022 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,024 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsvg-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,092 - aqt.helper - INFO - helper 34928 Downloading qtactiveqt...
+2026-07-04 00:02:32,092 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtactiveqt-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,096 - aqt.helper - INFO - helper 34916 Downloading qttranslations...
+2026-07-04 00:02:32,096 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttranslations-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,210 - aqt.helper - INFO - helper 34944 Downloading qtsvg: attempt #2...
+2026-07-04 00:02:32,210 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsvg-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,244 - aqt.helper - INFO - helper 35396 Downloading qtbase: attempt #2...
+2026-07-04 00:02:32,244 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,284 - aqt.helper - INFO - helper 34928 Downloading qtactiveqt: attempt #2...
+2026-07-04 00:02:32,284 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtactiveqt-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,298 - aqt.helper - INFO - helper 34916 Downloading qttranslations: attempt #2...
+2026-07-04 00:02:32,298 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttranslations-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,415 - aqt.helper - INFO - helper 34944 Downloading qtsvg: attempt #3...
+2026-07-04 00:02:32,415 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsvg-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,418 - aqt.helper - INFO - helper 35396 Downloading qtbase: attempt #3...
+2026-07-04 00:02:32,418 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,478 - aqt.helper - INFO - helper 34928 Downloading qtactiveqt: attempt #3...
+2026-07-04 00:02:32,478 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtactiveqt-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,497 - aqt.helper - INFO - helper 34916 Downloading qttranslations: attempt #3...
+2026-07-04 00:02:32,498 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttranslations-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,600 - aqt.helper - INFO - helper 35396 Downloading qtbase: attempt #4...
+2026-07-04 00:02:32,600 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,609 - aqt.helper - INFO - helper 34944 Downloading qtsvg: attempt #4...
+2026-07-04 00:02:32,610 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsvg-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,679 - aqt.helper - INFO - helper 34928 Downloading qtactiveqt: attempt #4...
+2026-07-04 00:02:32,679 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtactiveqt-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,703 - aqt.helper - INFO - helper 34916 Downloading qttranslations: attempt #4...
+2026-07-04 00:02:32,703 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttranslations-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,794 - aqt.helper - INFO - helper 35396 Downloading qtbase: attempt #5...
+2026-07-04 00:02:32,794 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,815 - aqt.helper - INFO - helper 34944 Downloading qtsvg: attempt #5...
+2026-07-04 00:02:32,815 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsvg-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,872 - aqt.helper - INFO - helper 34928 Downloading qtactiveqt: attempt #5...
+2026-07-04 00:02:32,872 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtactiveqt-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,928 - aqt.helper - INFO - helper 34916 Downloading qttranslations: attempt #5...
+2026-07-04 00:02:32,928 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttranslations-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:32,999 - aqt.helper - DEBUG - helper 35396 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwinextras-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:33,013 - aqt.helper - DEBUG - helper 34944 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:33,062 - aqt.helper - DEBUG - helper 34928 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsensors-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:33,147 - aqt.helper - DEBUG - helper 34916 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebchannel-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:34,494 - aqt.helper - INFO - helper 35396 Downloading qtwinextras...
+2026-07-04 00:02:34,494 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwinextras-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:34,529 - aqt.helper - INFO - helper 34944 Downloading qttools...
+2026-07-04 00:02:34,530 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:34,665 - aqt.helper - INFO - helper 34928 Downloading qtsensors...
+2026-07-04 00:02:34,665 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsensors-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:34,671 - aqt.helper - INFO - helper 35396 Downloading qtwinextras: attempt #2...
+2026-07-04 00:02:34,671 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwinextras-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:34,690 - aqt.helper - INFO - helper 34916 Downloading qtwebchannel...
+2026-07-04 00:02:34,690 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebchannel-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:34,716 - aqt.helper - INFO - helper 34944 Downloading qttools: attempt #2...
+2026-07-04 00:02:34,716 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:34,840 - aqt.helper - INFO - helper 35396 Downloading qtwinextras: attempt #3...
+2026-07-04 00:02:34,840 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwinextras-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:34,875 - aqt.helper - INFO - helper 34928 Downloading qtsensors: attempt #2...
+2026-07-04 00:02:34,875 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsensors-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:34,896 - aqt.helper - INFO - helper 34944 Downloading qttools: attempt #3...
+2026-07-04 00:02:34,896 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:34,898 - aqt.helper - INFO - helper 34916 Downloading qtwebchannel: attempt #2...
+2026-07-04 00:02:34,898 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebchannel-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,016 - aqt.helper - INFO - helper 35396 Downloading qtwinextras: attempt #4...
+2026-07-04 00:02:35,017 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwinextras-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,074 - aqt.helper - INFO - helper 34928 Downloading qtsensors: attempt #3...
+2026-07-04 00:02:35,075 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsensors-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,093 - aqt.helper - INFO - helper 34916 Downloading qtwebchannel: attempt #3...
+2026-07-04 00:02:35,093 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebchannel-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,108 - aqt.helper - INFO - helper 34944 Downloading qttools: attempt #4...
+2026-07-04 00:02:35,109 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,196 - aqt.helper - INFO - helper 35396 Downloading qtwinextras: attempt #5...
+2026-07-04 00:02:35,196 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwinextras-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,290 - aqt.helper - INFO - helper 34928 Downloading qtsensors: attempt #4...
+2026-07-04 00:02:35,290 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsensors-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,312 - aqt.helper - INFO - helper 34916 Downloading qtwebchannel: attempt #4...
+2026-07-04 00:02:35,313 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebchannel-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,313 - aqt.helper - INFO - helper 34944 Downloading qttools: attempt #5...
+2026-07-04 00:02:35,314 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,489 - aqt.helper - DEBUG - helper 35396 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtserialport-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:35,597 - aqt.helper - DEBUG - helper 34944 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtquickcontrols2-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:35,620 - aqt.helper - INFO - helper 34928 Downloading qtsensors: attempt #5...
+2026-07-04 00:02:35,620 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtsensors-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,670 - aqt.helper - INFO - helper 34916 Downloading qtwebchannel: attempt #5...
+2026-07-04 00:02:35,671 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebchannel-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:35,826 - aqt.helper - DEBUG - helper 34928 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebview-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:35,856 - aqt.helper - DEBUG - helper 34916 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtscxml-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:37,040 - aqt.helper - INFO - helper 35396 Downloading qtserialport...
+2026-07-04 00:02:37,040 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtserialport-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,047 - aqt.helper - INFO - helper 34944 Downloading qtquickcontrols2...
+2026-07-04 00:02:37,047 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtquickcontrols2-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,231 - aqt.helper - INFO - helper 35396 Downloading qtserialport: attempt #2...
+2026-07-04 00:02:37,231 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtserialport-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,240 - aqt.helper - INFO - helper 34944 Downloading qtquickcontrols2: attempt #2...
+2026-07-04 00:02:37,240 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtquickcontrols2-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,357 - aqt.helper - INFO - helper 34916 Downloading qtscxml...
+2026-07-04 00:02:37,357 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtscxml-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,368 - aqt.helper - INFO - helper 34928 Downloading qtwebview...
+2026-07-04 00:02:37,369 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebview-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,421 - aqt.helper - INFO - helper 34944 Downloading qtquickcontrols2: attempt #3...
+2026-07-04 00:02:37,421 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtquickcontrols2-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,440 - aqt.helper - INFO - helper 35396 Downloading qtserialport: attempt #3...
+2026-07-04 00:02:37,440 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtserialport-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,670 - aqt.helper - INFO - helper 34928 Downloading qtwebview: attempt #2...
+2026-07-04 00:02:37,670 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebview-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,676 - aqt.helper - INFO - helper 34916 Downloading qtscxml: attempt #2...
+2026-07-04 00:02:37,676 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtscxml-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,726 - aqt.helper - INFO - helper 35396 Downloading qtserialport: attempt #4...
+2026-07-04 00:02:37,726 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtserialport-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,734 - aqt.helper - INFO - helper 34944 Downloading qtquickcontrols2: attempt #4...
+2026-07-04 00:02:37,734 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtquickcontrols2-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,879 - aqt.helper - INFO - helper 34928 Downloading qtwebview: attempt #3...
+2026-07-04 00:02:37,879 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebview-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,888 - aqt.helper - INFO - helper 34916 Downloading qtscxml: attempt #3...
+2026-07-04 00:02:37,888 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtscxml-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,889 - aqt.helper - INFO - helper 35396 Downloading qtserialport: attempt #5...
+2026-07-04 00:02:37,889 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtserialport-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:37,955 - aqt.helper - INFO - helper 34944 Downloading qtquickcontrols2: attempt #5...
+2026-07-04 00:02:37,955 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtquickcontrols2-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:38,067 - aqt.helper - INFO - helper 34916 Downloading qtscxml: attempt #4...
+2026-07-04 00:02:38,067 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtscxml-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:38,070 - aqt.helper - INFO - helper 34928 Downloading qtwebview: attempt #4...
+2026-07-04 00:02:38,070 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebview-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:38,081 - aqt.helper - DEBUG - helper 35396 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtspeech-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:02:38,147 - aqt.helper - DEBUG - helper 34944 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602d3dcompiler_47-x86.7z.sha256
+2026-07-04 00:02:38,244 - aqt.helper - INFO - helper 34928 Downloading qtwebview: attempt #5...
+2026-07-04 00:02:38,244 - aqt.installer - DEBUG - installer 34928 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtwebview-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:38,290 - aqt.helper - INFO - helper 34916 Downloading qtscxml: attempt #5...
+2026-07-04 00:02:38,290 - aqt.installer - DEBUG - installer 34916 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtscxml-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:39,548 - aqt.helper - INFO - helper 35396 Downloading qtspeech...
+2026-07-04 00:02:39,549 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtspeech-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:39,743 - aqt.helper - INFO - helper 34944 Downloading d3dcompiler_47...
+2026-07-04 00:02:39,743 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602d3dcompiler_47-x86.7z
+2026-07-04 00:02:39,850 - aqt.helper - INFO - helper 35396 Downloading qtspeech: attempt #2...
+2026-07-04 00:02:39,850 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtspeech-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:39,939 - aqt.helper - INFO - helper 34944 Downloading d3dcompiler_47: attempt #2...
+2026-07-04 00:02:39,939 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602d3dcompiler_47-x86.7z
+2026-07-04 00:02:40,030 - aqt.helper - INFO - helper 35396 Downloading qtspeech: attempt #3...
+2026-07-04 00:02:40,030 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtspeech-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:40,150 - aqt.helper - INFO - helper 34944 Downloading d3dcompiler_47: attempt #3...
+2026-07-04 00:02:40,150 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602d3dcompiler_47-x86.7z
+2026-07-04 00:02:40,228 - aqt.helper - INFO - helper 35396 Downloading qtspeech: attempt #4...
+2026-07-04 00:02:40,228 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtspeech-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:40,331 - aqt.helper - INFO - helper 34944 Downloading d3dcompiler_47: attempt #4...
+2026-07-04 00:02:40,331 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602d3dcompiler_47-x86.7z
+2026-07-04 00:02:40,407 - aqt.helper - INFO - helper 35396 Downloading qtspeech: attempt #5...
+2026-07-04 00:02:40,408 - aqt.installer - DEBUG - installer 35396 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtspeech-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:40,533 - aqt.helper - INFO - helper 34944 Downloading d3dcompiler_47: attempt #5...
+2026-07-04 00:02:40,534 - aqt.installer - DEBUG - installer 34944 Download URL: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602d3dcompiler_47-x86.7z
+2026-07-04 00:02:40,754 - aqt.installer - WARNING - installer 23572 Caught ArchiveChecksumError, terminating installer workers
+2026-07-04 00:02:40,765 - aqt.main - ERROR - installer 23572 Downloaded file 5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z is corrupted! Detect checksum error.
+Expect 735ea6af604b6e42871b2310ee3604a633dd06a1691693ef66c5955ee21fff3b: https://mirrors.tuna.tsinghua.edu.cn/qt/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+Actual 8532ef9235946d33c176d7b7e3815588a3e205d6e31889237caea84265b245f6: qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:02:59,811 - aqt.main - INFO - installer 36856 aqtinstall(aqt) v3.3.0 on Python 3.13.12 [CPython MSC v.1942 64 bit (AMD64)]
+2026-07-04 00:02:59,811 - aqt.helper - DEBUG - helper 36856 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/Updates.xml.sha256
+2026-07-04 00:03:03,224 - aqt.helper - DEBUG - helper 38896 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:03:04,726 - aqt.helper - INFO - helper 38896 Downloading qtbase...
+2026-07-04 00:03:04,726 - aqt.installer - DEBUG - installer 38896 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:03:06,159 - aqt.helper - DEBUG - helper 38896 Asked to redirect(302) to: https://qt.mirror.constant.com/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:03:06,159 - aqt.helper - INFO - helper 38896 Redirected: qt.mirror.constant.com
+2026-07-04 00:03:14,495 - aqt.installer - INFO - installer 38896 Finished installation of qtbase-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z in 11.27323660
+2026-07-04 00:03:14,727 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\bin\qmake.exe
+2026-07-04 00:03:14,733 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\libEGL.prl
+2026-07-04 00:03:14,738 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\libEGLd.prl
+2026-07-04 00:03:14,743 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\libGLESv2.prl
+2026-07-04 00:03:14,748 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\libGLESv2d.prl
+2026-07-04 00:03:14,753 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5AccessibilitySupport.prl
+2026-07-04 00:03:14,760 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5AccessibilitySupportd.prl
+2026-07-04 00:03:14,774 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Bootstrap.prl
+2026-07-04 00:03:14,780 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Concurrent.prl
+2026-07-04 00:03:14,787 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Concurrentd.prl
+2026-07-04 00:03:14,794 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Core.prl
+2026-07-04 00:03:14,802 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Cored.prl
+2026-07-04 00:03:14,807 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5DBus.prl
+2026-07-04 00:03:14,813 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5DBusd.prl
+2026-07-04 00:03:14,819 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5DeviceDiscoverySupport.prl
+2026-07-04 00:03:14,825 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5DeviceDiscoverySupportd.prl
+2026-07-04 00:03:14,831 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5EdidSupport.prl
+2026-07-04 00:03:14,837 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5EdidSupportd.prl
+2026-07-04 00:03:14,844 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5EglSupport.prl
+2026-07-04 00:03:14,850 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5EglSupportd.prl
+2026-07-04 00:03:14,856 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5EventDispatcherSupport.prl
+2026-07-04 00:03:14,861 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5EventDispatcherSupportd.prl
+2026-07-04 00:03:14,868 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5FbSupport.prl
+2026-07-04 00:03:14,874 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5FbSupportd.prl
+2026-07-04 00:03:14,881 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5FontDatabaseSupport.prl
+2026-07-04 00:03:14,887 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5FontDatabaseSupportd.prl
+2026-07-04 00:03:14,892 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Gui.prl
+2026-07-04 00:03:14,897 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Guid.prl
+2026-07-04 00:03:14,903 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Network.prl
+2026-07-04 00:03:14,909 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Networkd.prl
+2026-07-04 00:03:14,914 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5OpenGL.prl
+2026-07-04 00:03:14,919 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5OpenGLd.prl
+2026-07-04 00:03:14,925 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5OpenGLExtensions.prl
+2026-07-04 00:03:14,930 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5OpenGLExtensionsd.prl
+2026-07-04 00:03:14,934 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5PlatformCompositorSupport.prl
+2026-07-04 00:03:14,940 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5PlatformCompositorSupportd.prl
+2026-07-04 00:03:14,946 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5PrintSupport.prl
+2026-07-04 00:03:14,951 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5PrintSupportd.prl
+2026-07-04 00:03:14,956 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Sql.prl
+2026-07-04 00:03:14,961 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Sqld.prl
+2026-07-04 00:03:14,965 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Test.prl
+2026-07-04 00:03:14,971 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Testd.prl
+2026-07-04 00:03:14,977 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5ThemeSupport.prl
+2026-07-04 00:03:14,983 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5ThemeSupportd.prl
+2026-07-04 00:03:14,989 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5VulkanSupport.prl
+2026-07-04 00:03:14,995 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5VulkanSupportd.prl
+2026-07-04 00:03:15,002 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Widgets.prl
+2026-07-04 00:03:15,008 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Widgetsd.prl
+2026-07-04 00:03:15,013 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5WindowsUIAutomationSupport.prl
+2026-07-04 00:03:15,019 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5WindowsUIAutomationSupportd.prl
+2026-07-04 00:03:15,025 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Xml.prl
+2026-07-04 00:03:15,032 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\Qt5Xmld.prl
+2026-07-04 00:03:15,038 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\qtfreetype.prl
+2026-07-04 00:03:15,043 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\qtfreetyped.prl
+2026-07-04 00:03:15,049 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\qtlibpng.prl
+2026-07-04 00:03:15,054 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\qtlibpngd.prl
+2026-07-04 00:03:15,059 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\qtmain.prl
+2026-07-04 00:03:15,064 - aqt.updater - INFO - updater 36856 Patching D:\tmp\Qt\5.15.2\msvc2019\lib\qtmaind.prl
+2026-07-04 00:03:15,071 - aqt.main - INFO - installer 36856 Finished installation
+2026-07-04 00:03:15,071 - aqt.main - INFO - installer 36856 Time elapsed: 15.25951370 second
+2026-07-04 00:09:08,488 - aqt.main - INFO - installer 32996 aqtinstall(aqt) v3.3.0 on Python 3.13.12 [CPython MSC v.1942 64 bit (AMD64)]
+2026-07-04 00:09:08,489 - aqt.helper - DEBUG - helper 32996 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/Updates.xml.sha256
+2026-07-04 00:09:11,743 - aqt.helper - DEBUG - helper 25520 Attempt to download checksum at https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z.sha256
+2026-07-04 00:09:13,250 - aqt.helper - INFO - helper 25520 Downloading qttools...
+2026-07-04 00:09:13,250 - aqt.installer - DEBUG - installer 25520 Download URL: https://download.qt.io/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:09:14,713 - aqt.helper - DEBUG - helper 25520 Asked to redirect(302) to: https://qt.mirror.constant.com/online/qtsdkrepository/windows_x86/desktop/qt5_5152/qt.qt5.5152.win32_msvc2019/5.15.2-0-202011130602qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z
+2026-07-04 00:09:14,713 - aqt.helper - INFO - helper 25520 Redirected: qt.mirror.constant.com
+2026-07-04 00:09:18,787 - aqt.installer - INFO - installer 25520 Finished installation of qttools-Windows-Windows_10-MSVC2019-Windows-Windows_10-X86.7z in 7.04622500
+2026-07-04 00:09:18,836 - aqt.main - INFO - installer 32996 Finished installation
+2026-07-04 00:09:18,836 - aqt.main - INFO - installer 32996 Time elapsed: 10.34742820 second
